@@ -290,6 +290,7 @@
 				DEVELOPMENT_TEAM = CFFK3CHSWD;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "protocol, delegate & extension practice/Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Please allow to use camera";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -318,6 +319,7 @@
 				DEVELOPMENT_TEAM = CFFK3CHSWD;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "protocol, delegate & extension practice/Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Please allow to use camera";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
